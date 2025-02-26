@@ -17,6 +17,11 @@
 
 ---
 
+## 📸 Demo  
+![Demo GIF](https://github.com/naomi-afrin/ToDoList-App-JetpackCompose/blob/main/to-do-list-gif.gif)
+
+---
+
 ## 🛠️ Tech Stack  
 - **Language:** Kotlin  
 - **Framework:** Jetpack Compose  
